@@ -1,0 +1,35 @@
+
+  ul.a {
+    list-style-type: square;
+  }
+
+  body {
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+
+  }
+
+  h1 {
+    color: rgb(4, 31, 237);
+    font-family: 'Kenia', cursive;
+    font-family: 'MonteCarlo', cursive;
+  
+  }
+  body {
+    background-color: rgba(116, 175, 243, 0.875);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .cursive {font-family: 'Lobster', cursive;
+  }
+
+  .Lobster {font-family: 'Lobster', cursive;}
+
+  .children{font-size:larger}
+
+  .color {
+    font-weight: bolder;
+    color: rgba(235, 13, 80, 0.716);
+  }
+
+  
